@@ -12,6 +12,9 @@ This project analyzes the Superstore Orders dataset to identify sales trends, pr
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Power BI
+
+## KeyWords
 
 ## Analysis Performed
 1. Sales by Category
